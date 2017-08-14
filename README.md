@@ -59,87 +59,23 @@ Cours et travaux pratiques: 28 heures, en principe à raison de 2 heures par se
 
 ## 7. Plan du cours
 
-<table>
-<thead>
-<tr>
-	<td><b>Semaine</b></td>
-	<td><b>Date</b></td>
-	<td><b>Thématique du cours</b></td>
-</tr>
-</thead>
-<tbody>
-	<tr>
-		<td>1</td>
-		<td>21.9.</td>
-		<td>Présentation du cours: programme, ressources, exigences<br>Les données et les statistiques descriptives</td>
-	</tr>
-	<tr>
-		<td>2</td>
-		<td>28.9.</td>
-		<td>Éléments de statistique inférentielle</td>
-	</tr>
-	<tr>
-		<td>3</td>
-		<td>5.10.</td>
-		<td>ANOVA</td>
-	</tr>
-	<tr>
-		<td>4</td>
-		<td>12.10.</td>
-		<td>Corrélations</td>
-	</tr>
-	<tr>
-		<td>5</td>
-		<td>19.10.</td>
-		<td>Régression multiple et logistique</td>
-	</tr>
-	<tr>
-		<td>6</td>
-		<td>26.10.</td>
-		<td>GLM</td>
-	</tr>
-	<tr>
-		<td>7</td>
-		<td>2.11.</td>
-		<td>ACP</td>
-	</tr>
-	<tr>
-		<td>8</td>
-		<td>9.11.</td>
-		<td><i>Pas de cours (inter-semestre)</i></td>
-	</tr>
-	<tr>
-		<td>9</td>
-		<td>16.11.</td>
-		<td>Analyse factorielle</td>
-	</tr>
-	<tr>
-		<td>10</td>
-		<td>23.11.</td>
-		<td>Classificiation hiérarchique</td>
-	</tr>
-	<tr>
-		<td>11</td>
-		<td>30.11.</td>
-		<td>k-means</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>7.12.</td>
-		<td>GWR / Point Pattern Analysis</td>
-	</tr>
-	<tr>
-		<td>13</td>
-		<td>14.12.</td>
-		<td>Réserve</td>
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>21.12.</td>
-		<td><b>Délai de rendu travail pratique</b></td>
-	</tr>
-</tbody
-</table>
+Semaine  | Date  | Thématique du cours
+:-------:|:-----:| -------------------
+1        | 21.9. | Présentation du cours: programme, ressources, exigences.<br>Les données et les statistiques descriptives.
+2        | 28.9.  | Éléments de statistique inférentielle
+3        | 5.10.  | ANOVA
+4        | 12.10. | Corrélations
+5        | 19.10. | Régression multiple et logistique
+6        | 26.10. | GLM
+7        | 2.11.  | ACP
+8        | 9.11.  | Pas de cours (inter-semestre)
+9        | 16.11. | Analyse factorielle
+10       | 23.11. | Classificiation hiérarchique
+11       | 30.11. | k-means
+12       | 7.12.  | GWR / Point Pattern Analysis
+13       | 14.12. | Réserve
+14       | 21.12. | __Délai de rendu travail pratique__
+
 
 ## 8. Encadrement et réponse aux questiosn
 
