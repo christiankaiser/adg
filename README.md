@@ -18,7 +18,7 @@ __Salle:__ Amphipôle 140 + 146
 
 __Documents de cours:__ [https://github.com/christiankaiser/adg](https://github.com/christiankaiser/adg)
 
-__Q&A / Discussions__: [gse-adg.slack.com](https://gse-adg.slack.com)
+__Q&A / Discussions / Annonces__: [gse-adg.slack.com](https://gse-adg.slack.com). Utilisez [ce lien](https://join.slack.com/t/gse-adg/signup) pour joindre le forum (il faut utiliser votre adresse UNIL pour pouvoir joindre).
 
 ---
 
@@ -77,9 +77,9 @@ Semaine  | Date  | Thématique du cours
 14       | 21.12. | __Délai de rendu travail pratique__
 
 
-## 8. Encadrement et réponse aux questiosn
+## 8. Encadrement et réponse aux questions
 
-Pour toute question, demande de précision ou de compléments d’information, vous pouvez utiliser le [forum de discussion sur Slack](https://gse-adg.slack.com). Les réponses sont ainsi disponibles pour tous en tout temps.
+Pour toute question, demande de précision ou de compléments d’information, vous pouvez utiliser le [forum de discussion sur Slack](https://gse-adg.slack.com). Ceci nous permet de répondre au plus vite possible, et les réponses sont disponibles pour tous en tout temps.
 
 Pour une question spécifique sur les traitements R que vous avez effectués, vos données ou votre projet personnel, formulez votre question de manière à ce que quelqu'un d'autre est en mesure de la reproduire, entre autre en joignant tous les documents nécessaires (vos données, copie d’écran, etc.).
 
