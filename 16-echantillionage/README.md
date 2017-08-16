@@ -24,4 +24,46 @@ Pour assurer une bonne représentativité d'un échantillon, il doit être séle
 En gros: _plus l'échantillon est grand, moins il y a de l'imprécision, mais plus il y a de l'effort à fournir pour récolter les données._ Nous devons donc trouver une bonne balance entre imprécision et effort, et surtout nous devons estimer les imprécisions à l'aide de méthodes statistiques.
 
 
+## Statistique descriptive sur la base d'un échantillon
 
+Si on veut estimer des valeurs de statistique descriptive comme la moyenne, l'écart-type etc. d'une population sur la base d'un échantillon de cette population, on n'aura généralement pas les valeurs exactes, mais une approximation plus ou moins bonne. En plus de calculer la meilleure approximation possible, nous allons également calculer l'intervalle de confiance, qui nous donne l'intervalle dans lequel la _"vraie valeur"_ se situe avec une probabilité donnée.
+
+Afin d'illustrer nos propos, prenons un exemple. Supposons que nous avons une population de 20 individus (p.ex. une classe d'école), ce qui représente dans notre cas la _population complète_ car nous limitons notre étude sur ces personnes. La taille en centimètres de chaque personne est comme suit:
+
+	157 158 159 159 161 
+	164 164 170 171 174
+	176 178 181 182 183 
+	184 185 189 191 199
+
+Nous pouvons calculer la taille __moyenne__:
+
+$\mu = \frac{1}{N} \sum_i^N X_i = \frac{1}{20} \cdot 3485 = 174.25$
+
+Et __l'écart-type__:
+
+$\sigma = \sqrt{\frac{1}{N} \sum_i^N (X_i - \mu)^2} \approx 12.17$
+
+Maintenant supposons qu'au lieu de mesurer la taille de tous les 20 individus, nous mesurons uniquement la taille de 5 personnes, et nous estimons la taille moyenne et l'écart-type des 20 personnes à partir de l'échantillon des 5 personnes. Nous sélectionnons donc un échantillon aléatoire:
+
+	159 164 164 183 184
+
+(c'est important que l'échantillon soit aléatoire!)
+
+La __meilleure estimation pour la moyenne__ $\mu$ de la population est la moyenne arithmétique:
+
+$\bar X = \frac{1}{n} \sum_i^n X_i = 170.8$
+
+(notez la différence dans les symboles utilisés: $\bar X$ au lieu de $\mu$ et $n$ au lieu de $N$).
+
+La __meilleure estimation pour l'écart-type de la population__ à partir des données de l'échantillon est donnée par la formule suivante:
+
+$s = \sqrt{\frac{1}{n-1} \sum_i^n (X_i - \bar X)^2}$
+
+Notez que nous divisons par $(n-1)$ au lieu de diviser par $n$, ainsi que les différences dans l'utilisation des symboles. Ceci nous donne une estimation de $11.78$ pour l'écart-type (avec une division par $n$ au lieu de $(n-1)$, le résultat serait de $10.53$, ce qui est clairement moins bien).
+
+La moyenne et l'écart-type calculés à partir de l'échantillon ne correspondent évidemment pas exactement aux valeurs de la population entière. En réalité, les valeurs pour la population entière ne sont généralement pas connues, et nous devons estimer l'intervalle dans lequel la vraie valeur se situe, avec une probabilité donnée. C'est __l'intervalle de confiance__.
+
+--
+
+**TODO**: Décrire le calcul de l'intervalle de confiance.
+**TODO**: Faire un petit exercice d'échantillonage et de calcul dans un Jupyter Notebook avec R.
