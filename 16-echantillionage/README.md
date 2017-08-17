@@ -37,11 +37,11 @@ Afin d'illustrer nos propos, prenons un exemple. Supposons que nous avons une po
 
 Nous pouvons calculer la taille __moyenne__:
 
-$\mu = \frac{1}{N} \sum_i^N X_i = \frac{1}{20} \cdot 3485 = 174.25$
+$$\mu = \frac{1}{N} \sum_i^N X_i = \frac{1}{20} \cdot 3485 = 174.25$$
 
 Et __l'écart-type__:
 
-$\sigma = \sqrt{\frac{1}{N} \sum_i^N (X_i - \mu)^2} \approx 12.17$
+$$\sigma = \sqrt{\frac{1}{N} \sum_i^N (X_i - \mu)^2} \approx 12.17$$
 
 Maintenant supposons qu'au lieu de mesurer la taille de tous les 20 individus, nous mesurons uniquement la taille de 5 personnes, et nous estimons la taille moyenne et l'écart-type des 20 personnes à partir de l'échantillon des 5 personnes. Nous sélectionnons donc un échantillon aléatoire:
 
@@ -51,13 +51,13 @@ Maintenant supposons qu'au lieu de mesurer la taille de tous les 20 individus, n
 
 La __meilleure estimation pour la moyenne__ $\mu$ de la population est la moyenne arithmétique:
 
-$\bar X = \frac{1}{n} \sum_i^n X_i = 170.8$
+$$\bar X = \frac{1}{n} \sum_i^n X_i = 170.8$$
 
 (notez la différence dans les symboles utilisés: $\bar X$ au lieu de $\mu$ et $n$ au lieu de $N$).
 
 La __meilleure estimation pour l'écart-type de la population__ à partir des données de l'échantillon est donnée par la formule suivante:
 
-$s = \sqrt{\frac{1}{n-1} \sum_i^n (X_i - \bar X)^2}$
+$$s = \sqrt{\frac{1}{n-1} \sum_i^n (X_i - \bar X)^2}$$
 
 Notez que nous divisons par $(n-1)$ au lieu de diviser par $n$, ainsi que les différences dans l'utilisation des symboles. Ceci nous donne une estimation de $11.78$ pour l'écart-type (avec une division par $n$ au lieu de $(n-1)$, le résultat serait de $10.53$, ce qui est clairement moins bien).
 
