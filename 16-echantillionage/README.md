@@ -65,5 +65,4 @@ La moyenne et l'écart-type calculés à partir de l'échantillon ne corresponde
 
 --
 
-**TODO**: Décrire le calcul de l'intervalle de confiance.
-**TODO**: Faire un petit exercice d'échantillonage et de calcul dans un Jupyter Notebook avec R.
+**TODO**: Décrire le calcul de l'intervalle de confiance.  
