@@ -76,6 +76,8 @@ Semaine  | Date  | Thématique du cours
 13       | 14.12. | Réserve
 14       | 21.12. | __Délai de rendu travail pratique__
 
+Ce plan de cours ci-dessus peut subir des modifications pendant le semestre, en fonction de l'avancement.
+
 
 ## 8. Encadrement et réponse aux questions
 
