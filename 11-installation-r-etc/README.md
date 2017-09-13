@@ -20,7 +20,7 @@ _Installer **dans l'ordre :**_
 **1. R**
 
 Via https://stat.ethz.ch/CRAN/ sélectionnez la version de R à télécharger en fonction de votre système d’exploitation (Mac, Windows, Linux).
-- Pour les utilisateurs Windows : cliquez sur *« base »* puis téléchargez *« Download R 3.4.1 for Windows »*.
+- Pour les utilisateurs Windows : Cliquez sur *« base »* puis téléchargez *« Download R 3.4.1 for Windows »*.
 - Pour les utilisateurs Mac : Téléchargez uniquement le fichier .pkg correspondant à votre version (pas besoin d’installer XQuartz).
 Si l’ordinateur bloque l’ouverture du fichier, allez sous préférences système > sécurité et confidentialité > ouvrir quand même.
 
