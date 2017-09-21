@@ -47,7 +47,7 @@ En HTML
 ```
 
 En Markdown
-``` Markdown
+```
 - Gradient
 - Dispersion
 - Concentration
