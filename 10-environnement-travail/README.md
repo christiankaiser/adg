@@ -37,17 +37,21 @@ Le _Markdown_ est un langage de balisage (comme le HTML, par ex.) simple d'utili
 
 Le balisage qui y correspond est plus "léger" en Markdown :
 
-    En HTML
-    <ul>
-      <li>Gradient</li>
-      <li>Dispersion</li>
-      <li>Concentration</li>
-    </ul>
+En HTML
+``` HTML
+<ul>
+  <li>Gradient</li>
+  <li>Dispersion</li>
+  <li>Concentration</li>
+</ul>
+```
 
-    En Markdown
-    - Gradient
-    - Dispersion
-    - Concentration
+En Markdown
+```
+- Gradient
+- Dispersion
+- Concentration
+```
 
 Ainsi le texte reste lisible et est facilement éditable. Le _Markdown_ est utilisé dans les _Jupyter Notebooks_ (voir plus bas), ainsi que dans les _READMEs_ du cours. Vous aurez donc l'occasion de vous familiariser avec et de l'utiliser efficacement. [Cette page](https://daringfireball.net/projects/markdown/basics) vous permet d'obtenir un aperçu des basiques.
 
