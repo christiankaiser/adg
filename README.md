@@ -75,10 +75,10 @@ La première heure (au maximum) de chaque cours sera consacrée aux concepts th�
 
 ## 7. Plan du cours
 
-Semaine  | Date  | Thématique du cours
-:-------:|:-----:| -------------------
-1        | 21.9. | Présentation du cours: programme, ressources, exigences.<br>Les données et les statistiques descriptives.
-2        | 28.9.  | Éléments de statistique inférentielle
+Semaine  | Date  | Thématique du cours | Documents de cours
+:-------:|:-----:| --------------------|--------------------
+1        | 21.9. | Présentation du cours: programme, ressources, exigences.<br>Les données et les statistiques descriptives. | [10-environnement-travail](10-environnement-travail), [11-installation-r-etc](11-installation-r-etc), [15-stat-descriptive](15-stat-descriptive), [16-echantillionage](16-echantillionage)
+2        | 28.9.  | Éléments de statistique inférentielle | [17-tests-statistiques](17-tests-statistiques)
 3        | 5.10.  | ANOVA
 4        | 12.10. | Corrélations
 5        | 19.10. | Régression multiple et logistique
