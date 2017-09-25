@@ -1,6 +1,14 @@
 # Travail pratique ADG
 
-Description du TP suivra.
+Le but du travail pratique consiste à créer un dossier qui contient une description d'une série de méthodes statistiques, accompagnée des calculs et les interprétations.
+
+Pratiquement, le dossier sera un ensemble de Jupyter notebooks. Ces notebooks devront être rendus ensemble avec une version HTML (exportée depuis le notebook).
+
+Chaque notebook correspond à un des exercices présentés pendant le semestre dans le cours.
+
+Voici la liste des exercices qui doivent être inclus dans le dossier (cette liste est complétée au fur et à mesure):
+
+1. [Exercice sur les tests statistiques](../17-tests-statistiques/exercice-tests-statistiques.md)
 
 ## La région d'étude
 
