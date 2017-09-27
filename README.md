@@ -14,7 +14,7 @@ __Assistants:__
 
 __Horaire du cours:__ jeudi 13h15 - 15h00
 
-__Salle:__ Amphipôle 140 + 146
+__Salle:__  Amphipôle 189 (première partie) / Amphipôle 140 + 146 (deuxième partie)
 
 __Documents de cours:__ [https://github.com/christiankaiser/adg](https://github.com/christiankaiser/adg)
 
