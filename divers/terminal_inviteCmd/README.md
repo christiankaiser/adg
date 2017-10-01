@@ -106,7 +106,7 @@ Parmi les étapes qui suivent, les n° 1 et 2 sont des étapes de préparation �
   - Avec __`dir`__
   - Ouvrez l'explorateur de fichiers avec __`start .`__
 
-![alt text](img/win_10_mas_1.PNG "MàS création dossier")
+![alt text](img/win_10_mas_1.png "MàS création dossier")
 
 ##### 2. Clonage du répertoire Git
 
