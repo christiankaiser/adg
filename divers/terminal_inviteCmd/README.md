@@ -69,7 +69,7 @@ Cette étape d'installation est à effectuer une seule fois et vous fera gagner 
 
 2. Retournez dans le terminal, au répertoire du cours et exécutez la commande de clonage `git clone adresseCopiée` (nécessite une connexion internet)
 
-![alt text](img/mac_4_clone.png "git clone")
+![alt text](img/mac_4_clone.PNG "git clone")
 
 Tous les documents ont ainsi été copiés sur votre machine et cette dernière sait où aller chercher les documents nécessaires.
 
@@ -80,7 +80,7 @@ Dans le terminal, allez dans le dossier *adg* et effectuez la commande `git pull
 
 Vous obtenez une liste comprenant les documents récemment modifiés:
 
-![alt text](img/mac_5_pull.png "git pull")
+![alt text](img/mac_5_pull.PNG "git pull")
 
 S'il n'y a rien de nouveau à télécharger, terminal affichera simplement une ligne `Already up-to-date.`. Si vous obtenez un message d'erreur du type _not a git repository_, vous n'êtes sûrement pas dans le bon dossier.
 
