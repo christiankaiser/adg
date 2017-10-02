@@ -80,7 +80,7 @@ Dans le terminal, allez dans le dossier *adg* et effectuez la commande `git pull
 
 Vous obtenez une liste comprenant les documents récemment modifiés:
 
-![Screenshot to be place here](img/mac_5_pull.png "git pull")
+![alt text](img/mac_5_pull.png "git pull")
 
 S'il n'y a rien de nouveau à télécharger, terminal affichera simplement une ligne `Already up-to-date.`. Si vous obtenez un message d'erreur du type _not a git repository_, vous n'êtes sûrement pas dans le bon dossier.
 
