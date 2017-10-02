@@ -4,8 +4,8 @@ Le **Terminal** (*OSx*, *Linux*) ou l'**invite de commande** (*Windows*) est le 
 
 Ce document est divisé en deux parties car le système d'exploitation de Windows ne repose pas sur la même base (UNIX) que Linux et Mac. Il y a donc quelques subtilités et différences dans les deux:
 
-- Informations pour [Le Terminal de Mac](#Le-Terminal-de-Mac)
-- Informations pour [L'invite de commandes Windows](#L'invite-de-commandes-Windows)
+- Informations pour [Mac] (#le-terminal-de-mac)
+- Informations pour [Windows] (#l'invite-de-commandes-windows)
 
 
 ## Le Terminal de Mac
@@ -262,3 +262,5 @@ Un des défauts notables, relativement aux Macs, c'est qu'il faut ajouter manuel
 - **`color 0a`** : pour un style *Matrix*
 
 - **`color 07`** : fond noir (0), écriture blanche (7)
+
+# Maxi
