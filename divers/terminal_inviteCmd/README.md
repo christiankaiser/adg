@@ -55,37 +55,35 @@ Parmi les étapes qui suivent, les n° 1 et 2 sont des étapes de préparation �
 4. Créez votre dossier MesNotebooks qui contiendra vos différents notebooks et/ou notes `mkdir MesNotebooks`
 5. (fac.) Vérifiez l'existence de vos nouveaux dossier, soit depuis le terminal avec `ls` soit dans votre *Finder* avec `open .`
 
-![alt text](img/win_10_mas_1.png "MàS création dossier")
-
 ##### 2. Clonage du répertoire Git
 
 Comme vous l'avez sûrement remarqué, il n'y a pas encore le dossier de cours. Vous avez 2 façons de l'ajouter :
-- Télécharger chaque semaine un dossier compressé (.zip) contenant l'ensemble du cours, le décompresser et remplacer l'entier de l'ancien dossier par le nouveau, ou
+
+- Télécharger chaque semaine un dossier compressé (.zip) contenant l'ensemble du cours, le décompresser et remplacer l'entier de l'ancien dossier par le nouveau, ou...
 - Cloner le répertoire Git et l'actualiser chaque semaine en une seule commande !
 
-Cette étape d'installation est à effectuer une seule fois et vous fera gagner du temps chaque fois que le site du cours est mis à jour.
+Cette étape d'installation est à effectuer une seule fois et vous fera gagner du temps chaque fois que le site du cours est mis à jour:
 
-
-1. Rendez-vous sur la page GitHub du cours. Sur le côté droit de la page se trouve un bouton _Clone or download_. Copiez l'adresse qu'il contient (peut se faire en cliquant le bouton à droite de l'adresse)
+1. Rendez-vous sur la page GitHub du cours. Sur le côté droit de la page se trouve un bouton *Clone or download*. Copiez l'adresse qu'il contient (peut se faire en cliquant le bouton à droite de l'adresse)
 ![alt text](img/win_10_mas_2.PNG "Copier l'adresse sur GitHub")
 
-2. Retournez dans l'IC, au répertoire du cours et exécutez la commande de clonage __`git clone adresseCopiée`__ (nécessite une connexion internet)
-![alt text](img/win_10_mas_3.PNG "Clonage avec adresse")
-Tous les documents ont ainsi été copiés sur votre machine et cette dernière sait où aller chercher les documents nécessaires.
+2. Retournez dans le terminal, au répertoire du cours et exécutez la commande de clonage `git clone adresseCopiée` (nécessite une connexion internet)
 
+![alt text](img/mac_4_clone.png "git clone")
+
+Tous les documents ont ainsi été copiés sur votre machine et cette dernière sait où aller chercher les documents nécessaires.
 
 ##### 3. Actualisation du dossier de cours
 **Cette opération est à répéter chaque semaine (ou chaque fois que vous travaillez sur le cours)**
 
-Dans l'IC, allez dans le dossier *adg* et effectuez la commande __`git pull`__, celle-ci va aller automatiquement télécharger les nouveaux documents et fichiers mis à jour depuis la dernière fois (et uniquement ceux-ci).
+Dans le terminal, allez dans le dossier *adg* et effectuez la commande `git pull`, celle-ci va aller automatiquement télécharger les nouveaux documents et fichiers mis à jour depuis la dernière fois (et uniquement ceux-ci).
 
-Vous obtenez une liste comprenant les documents modifiés :
-![alt text](img/win_10_mas_4.PNG "git pull rslt liste")
+Vous obtenez une liste comprenant les documents modifiés:
 
-S'il n'y a rien de nouveau à télécharger, __`Already up-to-date.`__ sera affiché
-![alt text](img/win_10_mas_5.PNG "git pull up-to-date")
 
-Si vous obtenez un message d'erreur du type _not a git repository_, vous n'êtes sûrement pas dans le bon dossier.
+
+
+S'il n'y a rien de nouveau à télécharger, terminal affichera simplement une ligne `Already up-to-date.`. Si vous obtenez un message d'erreur du type _not a git repository_, vous n'êtes sûrement pas dans le bon dossier.
 
 ##### 4. Lancement du serveur de notebooks
 Finalement, quand le dossier de cours est à jour, vous pouvez lancer votre serveur de notebooks.
