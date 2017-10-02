@@ -78,17 +78,14 @@ Tous les documents ont ainsi été copiés sur votre machine et cette dernière 
 
 Dans le terminal, allez dans le dossier *adg* et effectuez la commande `git pull`, celle-ci va aller automatiquement télécharger les nouveaux documents et fichiers mis à jour depuis la dernière fois (et uniquement ceux-ci).
 
-Vous obtenez une liste comprenant les documents modifiés:
+Vous obtenez une liste comprenant les documents récemment modifiés:
 
-
-
+![Screenshot to be place here](img/mac_5_pull.png "git pull")
 
 S'il n'y a rien de nouveau à télécharger, terminal affichera simplement une ligne `Already up-to-date.`. Si vous obtenez un message d'erreur du type _not a git repository_, vous n'êtes sûrement pas dans le bon dossier.
 
 ##### 4. Lancement du serveur de notebooks
-Finalement, quand le dossier de cours est à jour, vous pouvez lancer votre serveur de notebooks.
-
-Retournez dans le dossier de cours et exécutez **`jupyter notebook`** ([A condition d'avoir fait les 4 premiers points des installations](https://github.com/christiankaiser/adg/tree/master/11-installation-r-etc))
+Finalement, quand le dossier de cours est à jour, vous pouvez lancer votre serveur de notebooks. Retournez dans le dossier de cours et exécutez `jupyter notebook` ([A condition d'avoir fait les 4 premiers points des installations](https://github.com/christiankaiser/adg/tree/master/11-installation-r-etc))
 
 Ce qui entraîne l'ouverture automatique dans le navigateur internet
 
@@ -96,32 +93,24 @@ Ce qui entraîne l'ouverture automatique dans le navigateur internet
 
 A partir de là, vous pouvez, par exemple, ouvrir dans un onglet le dossier *adg* et ses différents notebooks et dans un autre onglet votre dossier pour éditer vos notebooks en parallèle.
 
-Pour quitter le serveur (**après avoir sauvegardé vos notebooks**), il suffit de retourner dans l'IC où il "tourne" et d'effectuer **`Ctrl`** + **`C`** deux fois.
+Pour quitter le serveur (**après avoir sauvegardé vos notebooks**), il suffit de retourner dans l'IC où il "tourne" et d'effectuer `Ctrl` + `C` deux fois.
 
 #### Remarques
-Il est possible de naviguer dans les commandes déjà exécutées, à l'aide des touches **`↑`** et **`↓`**. Il est possible d'afficher caractère par caractère la dernière commande avec **`→`**.
+Il est possible de naviguer dans les commandes déjà exécutées, à l'aide des touches **`↑`** et **`↓`**.
 
 Dans la mesure du possible, **évitez les accents et espaces** dans vos noms de dossiers et fichiers, ceux-ci peuvent poser problèmes à certains logiciels dont l'encodage est différent. Vous risquez de vous retrouver avec des problèmes d'installations et/ou des fichiers corrompus (*NB* par expérience, les accents dans le nom d'utilisateur sont à proscrire !)
 
-Un des défauts notables, relativement aux Macs, c'est qu'il faut ajouter manuellement le chemin d'accès à certains programme dans le *PATH* pour utiliser la commande. Il n'est donc pas possible de simplement taper **`R`** dans l'IC après l'avoir installé. Ce n'est pas si compliqué, demandez si vous êtes intéressés.
-
 ##### Autres commandes
 
-- **`cd\`** : retour à la racine du disque
-
-- **`start .`** : ouvre l'explorateur de fichiers au répertoire courant
-
-- **`mkdir nomDossier`** : crée un dossier de ce nom dans le répertoire courant
-
-- **`ren x y`** : renomme le fichier x en y
-
-- **`exit`** : quitte l'invite de commandes
-
-- **`atom`** : si *Atom* est installé, l'ouvre au répertoire courant
-
-- **`color 0a`** : pour un style *Matrix*
-
-- **`color 07`** : fond noir (0), écriture blanche (7)
+- `cd /` : retour à la racine du disque
+- `open .` : ouvre l'explorateur de fichiers au répertoire courant
+- `open nomDuFichier` : ouvre le fichier sélectionné avec l'application par défaut
+- `mkdir nomDossier` : crée un dossier de ce nom dans le répertoire courant
+- `rmdir nomDossier` : supprime le dossier de ce nom du répertoire courant
+- `mv x y`: renomme le fichier x en y
+- `exit` : quitte le terminal
+- `atom`*: si *Atom* est installé, l'ouvre au répertoire courant
+- `r` : si **R** est installé, lance **R** depuis le terminal
 
 ## L'invite de commandes Windows
 
