@@ -109,7 +109,7 @@ Dans la mesure du possible, **évitez les accents et espaces** dans vos noms de 
 - `rmdir nomDossier` : supprime le dossier de ce nom du répertoire courant
 - `mv x y`: renomme le fichier x en y
 - `exit` : quitte le terminal
-- `atom`*: si *Atom* est installé, l'ouvre au répertoire courant
+- `atom`: si *Atom* est installé, l'ouvre au répertoire courant
 - `r` : si **R** est installé, lance **R** depuis le terminal
 
 ## L'invite de commandes Windows
