@@ -14,7 +14,7 @@ __Assistants:__
 
 __Horaire du cours:__ jeudi 13h15 - 15h00
 
-__Salle:__  Amphipôle 189 (première partie) / Amphipôle 140 + 146 (deuxième partie)
+__Salle:__  Amphipôle 189 (théorie) / Amphipôle 140 + 146 (partique)
 
 __Documents de cours:__ [https://github.com/christiankaiser/adg](https://github.com/christiankaiser/adg)
 
@@ -79,8 +79,8 @@ Semaine  | Date  | Thématique du cours | Documents de cours
 :-------:|:-----:| --------------------|--------------------
 1        | 21.9. | Présentation du cours: programme, ressources, exigences.<br>Les données et les statistiques descriptives. | [10-environnement-travail](10-environnement-travail), [11-installation-r-etc](11-installation-r-etc), [15-stat-descriptive](15-stat-descriptive), [16-echantillionage](16-echantillionage)
 2        | 28.9.  | Éléments de statistique inférentielle | [17-tests-statistiques](17-tests-statistiques)
-3        | 5.10.  | ANOVA
-4        | 12.10. | Corrélations
+3        | 5.10.  | _Travail personnel en salle informatique_
+4        | 12.10. | ANOVA / Corrélations
 5        | 19.10. | Régression multiple et logistique
 6        | 26.10. | GLM
 7        | 2.11.  | ACP
