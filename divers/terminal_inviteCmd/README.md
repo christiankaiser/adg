@@ -2,10 +2,7 @@
 
 Le **Terminal** (*OSx*, *Linux*) ou l'**invite de commande** (*Windows*) est le lieu où il est possible d'entrer des commandes qui permettent d'exécuter différentes actions sans recourir à l'interface graphique et de façon plus rapide et efficace.
 
-Ce document est divisé en deux parties car le système d'exploitation de Windows ne repose pas sur la même base (UNIX) que Linux et Mac. Il y a donc quelques subtilités et différences dans les deux:
-
-- Informations pour [Mac] (#le-terminal-de-mac)
-- Informations pour [Windows] (#l'invite-de-commandes-windows)
+Ce document est divisé en deux parties car le système d'exploitation de Windows ne repose pas sur la même base (UNIX) que Linux et Mac. Il y a donc quelques subtilités et différences dans les deux.
 
 
 ## Le Terminal de Mac
@@ -262,5 +259,3 @@ Un des défauts notables, relativement aux Macs, c'est qu'il faut ajouter manuel
 - **`color 0a`** : pour un style *Matrix*
 
 - **`color 07`** : fond noir (0), écriture blanche (7)
-
-# Maxi
