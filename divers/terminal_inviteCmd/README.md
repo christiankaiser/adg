@@ -9,7 +9,7 @@ Ce document est divisé en deux parties car le système d'exploitation de Window
 
 Le Terminal est accessible soit par une simple recherche *Spotlight* Mac (chercher *"terminal*) ou via le *Finder* : aller dans **Applications > Utilitaires > Terminal**. Une fenêtre de terminal se présente de la manière suivante:
 
-![alt text](img/mac_1_terminal.PNG "Ouvrir terminal")
+![alt text](img/mac_1_terminal.png "Ouvrir terminal")
 
 #### Commandes utiles
 
@@ -22,7 +22,7 @@ On peut l'utiliser de différentes façons :
 - Naviguer pas à pas dans les dossiers, en utilisant `cd nomDossier`
 - Aller directement dans le dossier cible, avec `cd chemindAccesAuDossier`. Cette manipulation peut également s'effectuer en écrivant `cd` dans le terminal puis en glissant le dossier sélectionné depuis une fenête de *Finder*:
 
-![alt text](img/mac_2_slide.PNG "Cd glisser")
+![alt text](img/mac_2_slide.png "Cd glisser")
 
 - Naviguer de façon relative, où `cd ../` permet de revenir au dossier parent (*i.e.* le dossier contenant le dossier actuel). `cd ../../` permet de reculer de deux dossiers parents et ainsi de suite.
 
@@ -31,7 +31,7 @@ Il est délicat de mémoriser l'organisation des dossiers sur sa machine. Il y e
 - Après avoir écrit `cd`, si on fait un espace et utilise *Tab*, il est possible de passer l'entier du dossier en revue. De même, si on commence à écrire, par exemple, `cd Doc`, avec *Tab* il est possible d'auto-compléter avec les dossiers qui commencent par *doc* (affiche directement le bon, s'il n'y en a qu'un). Dans ce cas `cd Doc` puis *Tab* se complète en `cd Documents`. A noter que ces notations sont *case sensitive*, c'est à dire sensible aux majuscules.
 - La commande `ls`, qui permet d'obtenir une liste des éléments présents dans le dossier actuel
 
-![alt text](img/mac_3_ls.PNG "commande ls")
+![alt text](img/mac_3_ls.png "commande ls")
 
 Enfin, si vous préférez une interface graphique pour vous retrouver, vous pouvez toujours ouvrir le dossier dans lequel vous êtes dans une fenêtre de *Finder* à l'aide de la commande `open .`
 
