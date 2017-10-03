@@ -4,6 +4,11 @@ Le **Terminal** (*OSx*, *Linux*) ou l'**invite de commande** (*Windows*) est le 
 
 Ce document est divisé en deux parties car le système d'exploitation de Windows ne repose pas sur la même base (UNIX) que Linux et Mac. Il y a donc quelques subtilités et différences dans les deux.
 
+Dans chacune des parties vous trouverez :
+- comment accéder au Terminal ou Invite de commande
+- la description imagée de quelques commandes courantes
+- **un exemple concret avec utilisation de git et de jupyter notebook**
+- quelques aspects pratiques et remarques diverses
 
 ## Le Terminal de Mac
 
@@ -39,11 +44,11 @@ Enfin, si vous préférez une interface graphique pour vous retrouver, vous pouv
 
 ##### Introduction
 
-Cet exemple part du principe que vous avez installé [Git](https://git-scm.com/download/win) et [Anaconda](https://github.com/christiankaiser/adg/tree/master/11-installation-r-etc) et qu'ils sont ajoutés à votre *Path*. Vous obtiendrez, au final, le cas d'organisation suivante : un dossier (parent) du cours avec dedans le dossier *adg* (issu du git) et de l'autre un dossier MesNotebooks :
+Vous obtiendrez, à la fin de cet exemple, le cas d'organisation suivante : un dossier (parent) du cours avec à l'intérieur d'une part le dossier *adg* (issu du git) et de l'autre un dossier MesNotebooks :
 
 - DossierCours
- - adg
- - MesNotebooks
+  - adg
+  - MesNotebooks
 
 Parmi les étapes qui suivent, les n° 1 et 2 sont des étapes de préparation à ne réaliser qu'une fois, les n° 3 et 4 seront à répéter lorsque vous venez en cours/travaillez sur le projet.
 
@@ -141,7 +146,7 @@ On peut l'utiliser de différentes façons :
   *NB* Il est possible de copier le chemin d'accès dans la barre en haut de l'explorateur de fichiers
   ![alt text](img/win_5_cd_2b.PNG "cd pas à pas")
 
-- Naviguer de façon relative (comme pour charger un fichier dans *R*, par ex.), où **`cd ..`** permet de sortir du dossier actuel
+- Naviguer de façon relative (comme pour charger un fichier dans *R*, par ex.), où **`cd ..`** permet de sortir du dossier actuel (revenir au dossier parent, *i.e.* le dossier contenant le dossier actuel).
 
   ![alt text](img/win_6_cd_3.PNG "cd relatif")
 
@@ -159,11 +164,11 @@ Cette commande permet d'obtenir un aperçu des dossiers et documents présents d
 
 ##### Introduction
 
-Cet exemple part du principe que vous avez installé [Git](https://git-scm.com/download/win) et [Anaconda](https://github.com/christiankaiser/adg/tree/master/11-installation-r-etc) et qu'ils sont ajoutés à votre _Path_. Vous obtiendrez, au final, le cas d'organisation suivante : un dossier (parent) du cours avec dedans le dossier _adg_ (issu du git) et de l'autre un dossier MesNotebooks :
+Cet exemple part du principe que vous avez installé [Git](https://git-scm.com/download/win) et [Anaconda](https://github.com/christiankaiser/adg/tree/master/11-installation-r-etc) et qu'ils sont ajoutés à votre _Path_ (demandez si vous n'êtes pas sûrs). Vous obtiendrez, au final, le cas d'organisation suivante : un dossier (parent) du cours avec dedans le dossier _adg_ (issu du git) et de l'autre un dossier MesNotebooks :
 
 - DossierCours
- - adg
- - MesNotebooks
+  - adg
+  - MesNotebooks
 
 Parmi les étapes qui suivent, les n° 1 et 2 sont des étapes de préparation à ne réaliser qu'une fois, les n° 3 et 4 seront à répéter lorsque vous venez en cours/travaillez sur le projet.
 
