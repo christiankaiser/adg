@@ -19,12 +19,4 @@ En vous basant sur cette correspondance entre zone Z05 et numéro de canton, vou
 
 ## 2) Extraction à l'aide d'un script **R**
 
-Pour les plus aventureux, il est possible d'effectuer toutes ces manipulations à l'aide de **R**. Pour vous guider dans cette démarche, vous trouverez un exemple de script **R** (*selectBy.R*) dans le dossier [script](script). Dans cet exemple, le script permet d'extraire les données des zones Z05 du *canton de Vaud* pour la catégorie *socio-économique*. Ceci se fait en 5 étapes:
-
-0. Mise en place du répertoire de travail et installation du package *foreign* permettant la lecture du fichier **z05.dbf** (table d'attribut de la couche **z05.shp**) 
-1. Chargement de la table de correspondance puis extraction des zones Z05 avec la commande `subset()`
-2. Chargement des données statistiques et adaptation
-3. Identification des lignes correspondantes au bonnes zones Z05 dans le jeu de donnée de base avec `match()`
-4. Extraction des données de la région
-
-Une fois tous les fichiers réunis il vous suffit d'adapter ce script à vos données(socio économiques, démographiques, construction *etc.*) et vos cantons respectifs. N'oubliez pas d'exporter votre nouveau jeu de données à l'aide de la commande `write.csv()`
+Pour les plus aventureux, il est possible d'effectuer toutes ces manipulations à l'aide de **R**. Pour vous guider dans cette démarche, vous trouverez un exemple de script **R** (*selectBy.R*) dans le dossier [script](script). Dans cet exemple, le script permet d'extraire les données des zones Z05 du *canton de Vaud* pour la catégorie *socio-économique*. Ceci se fait en 5 étapes décrites dans le [notebook suivant](selectBy.ipynb). Une fois tous les fichiers réunis il vous suffit d'adapter ce script à vos données(socio économiques, démographiques, construction *etc.*) et vos cantons respectifs. N'oubliez pas d'exporter votre nouveau jeu de données à l'aide de la commande `write.csv()`
