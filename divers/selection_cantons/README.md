@@ -1,6 +1,6 @@
 # Sélection des zones Z05
 
-Dans le cadre de votre projet, vous serez amenés à travailler sur une région d'études composée de deux cantons ou plus. Les données contenues dans le dossier [data](../../data/stats) recouvrent les zones Z05 de l'ensemble du territoire suisse : vous devez donc *extraire* les données des cantons qui vous intéressent. Pour ce faire, deux options s'offrent à vous:
+Dans le cadre de votre projet, vous serez amenés à travailler sur une région d'études composée de deux cantons ou plus. Les données contenues dans le dossier [data](../../data) recouvrent les zones Z05 de l'ensemble du territoire suisse : vous devez donc *extraire* les données des cantons qui vous intéressent. Pour ce faire, deux options s'offrent à vous:
 
 1. Extraire les données "manuellement" depuis les tableur Excel
 2. Utiliser une script **R** permettant d'automatiser cette procédure
@@ -19,4 +19,4 @@ En vous basant sur cette correspondance entre zone Z05 et numéro de canton, vou
 
 ## 2) Extraction à l'aide d'un script **R**
 
-Pour les plus aventureux, il est possible d'effectuer toutes ces manipulations à l'aide de **R**. Pour vous guider dans cette démarche, vous trouverez un exemple de script **R** (*selectBy.R*) dans le dossier [script](script). Dans cet exemple, le script permet d'extraire les données des zones Z05 du *canton de Vaud* pour la catégorie *socio-économique*. Ceci se fait en 5 étapes décrites dans le [notebook suivant](selectBy.ipynb). Une fois tous les fichiers réunis il vous suffit d'adapter ce script à vos données(socio économiques, démographiques, construction *etc.*) et vos cantons respectifs. N'oubliez pas d'exporter votre nouveau jeu de données à l'aide de la commande `write.csv()`
+Pour les plus aventureux, il est possible d'effectuer toutes ces manipulations à l'aide de **R**. Pour vous guider dans cette démarche, vous trouverez un exemple de script **R** dans le dossier [notebook suivant](selectBy.ipynb). Dans cet exemple, le script permet d'extraire les données des zones Z05 du *canton de Vaud* pour la catégorie *socio-économique*. Une fois tous les fichiers réunis il vous suffit d'adapter ce script à vos données(socio économiques, démographiques, construction *etc.*) et vos cantons respectifs. N'oubliez pas d'exporter votre nouveau jeu de données à l'aide de la commande `write.csv()`
