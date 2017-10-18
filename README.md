@@ -81,7 +81,7 @@ Semaine  | Date  | Thématique du cours | Documents de cours
 2        | 28.9.  | Éléments de statistique inférentielle | [17-tests-statistiques](17-tests-statistiques)
 3        | 5.10.  | _Travail personnel en salle informatique_
 4        | 12.10. | ANOVA / Corrélations | [18-anova](18-anova), [20-correlations](20-correlations)
-5        | 19.10. | Régression multiple et logistique
+5        | 19.10. | Régression multiple et logistique | [25-regression](25-regression)
 6        | 26.10. | GLM
 7        | 2.11.  | ACP
 8        | 9.11.  | Pas de cours (inter-semestre)
