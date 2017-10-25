@@ -9,6 +9,7 @@ Chaque notebook correspond à un des exercices présentés pendant le semestre d
 Voici la liste des exercices qui doivent être inclus dans le dossier (cette liste est complétée au fur et à mesure):
 
 1. [Exercice sur les tests statistiques](../17-tests-statistiques/exercice-tests-statistiques.md)
+2. [Exercice sur les régressions](../26-glm/4-exercice-regression.md)
 
 ## La région d'étude
 
