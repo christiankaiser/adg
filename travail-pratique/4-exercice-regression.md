@@ -1,3 +1,0 @@
-# Exercice sur les régressions
-
-...
