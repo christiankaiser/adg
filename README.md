@@ -82,10 +82,10 @@ Semaine  | Date  | Thématique du cours | Documents de cours
 3        | 5.10.  | _Travail personnel en salle informatique_
 4        | 12.10. | ANOVA / Corrélations | [18-anova](18-anova), [20-correlations](20-correlations)
 5        | 19.10. | Régression multiple et logistique | [25-regression](25-regression)
-6        | 26.10. | GLM
-7        | 2.11.  | ACP
+6        | 26.10. | GLM | [26-glm](26-glm)
+7        | 2.11.  | _Travail personnel en salle informatique_
 8        | 9.11.  | Pas de cours (inter-semestre)
-9        | 16.11. | Analyse factorielle
+9        | 16.11. | ACP / Analyse factorielle
 10       | 23.11. | Classificiation hiérarchique
 11       | 30.11. | k-means
 12       | 7.12.  | GWR / Point Pattern Analysis
