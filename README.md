@@ -14,7 +14,7 @@ __Assistants:__
 
 __Horaire du cours:__ jeudi 13h15 - 15h00
 
-__Salle:__  Amphipôle 189 (théorie) / Amphipôle 140 + 146 (partique)
+__Salle:__  voir plan de cours
 
 __Documents de cours:__ [https://github.com/christiankaiser/adg](https://github.com/christiankaiser/adg)
 
@@ -75,8 +75,8 @@ La première heure (au maximum) de chaque cours sera consacrée aux concepts th�
 
 ## 7. Plan du cours
 
-Semaine  | Date  | Thématique du cours | Documents de cours
-:-------:|:-----:| --------------------|--------------------
+Semaine  | Date  | Thématique du cours | Documents de cours | Salle
+:-------:|:-----:| --------------------|--------------------| -----
 1        | 21.9. | Présentation du cours: programme, ressources, exigences.<br>Les données et les statistiques descriptives. | [10-environnement-travail](10-environnement-travail), [11-installation-r-etc](11-installation-r-etc), [15-stat-descriptive](15-stat-descriptive), [16-echantillionage](16-echantillionage)
 2        | 28.9.  | Éléments de statistique inférentielle | [17-tests-statistiques](17-tests-statistiques)
 3        | 5.10.  | _Travail personnel en salle informatique_
@@ -85,10 +85,10 @@ Semaine  | Date  | Thématique du cours | Documents de cours
 6        | 26.10. | GLM | [26-glm](26-glm)
 7        | 2.11.  | _Travail personnel en salle informatique_
 8        | 9.11.  | Pas de cours (inter-semestre)
-9        | 16.11. | ACP / Analyse factorielle
-10       | 23.11. | Classificiation hiérarchique
-11       | 30.11. | k-means
-12       | 7.12.  | GWR / Point Pattern Analysis
+9        | 16.11. | ACP / Analyse factorielle | [30-acp](30-acp)
+10       | 23.11. | Classificiation hiérarchique | | C:POL-189.1<br>A:POL-146
+11       | 30.11. | k-means | | C:POL-189.1<br>A:POL-146
+12       | 7.12.  | GWR / Point Pattern Analysis | | C:POL-189.1<br>A:POL-146
 13       | 14.12. | Réserve
 14       | 21.12. | __Délai de rendu travail pratique__
 
