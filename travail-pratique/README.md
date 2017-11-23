@@ -8,8 +8,13 @@ Voici la liste des exercices qui doivent être inclus dans le dossier (cette lis
 
 1. [Exercice sur les tests statistiques](../17-tests-statistiques/exercice-tests-statistiques.md)
 2. [Exercice sur les régressions](../26-glm/4-exercice-regression.md)
-3. ACP (à venir)
-4. Clustering (à venir)
+3. [ACP](../30-acp)
+4. [Clustering](../40-clustering)
+
+Il est possible de:
+
+1. Combiner l'ACP et le clustering en un seul exercice
+2. Faire de manière approfondie soit l'ACP soit le clustering, et de laisser tomber l'autre exercice
 
 
 ## La région d'étude
