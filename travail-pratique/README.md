@@ -48,4 +48,6 @@ Voici les points importants:
 	- évidemment le Jupyter Notebook de l'exercice!
 	- et un export HTML du Jupyter Notebook (dans Jupyter, menu File > Download As... > HTML
 
-Si vous avez tous les 4 exercices, et vous remplissez les critères ci-dessus, vous pouvez soumettre votre dossier du TP sous forme de fichier ZIP
+Si vous avez tous les 4 exercices, et vous remplissez les critères ci-dessus, vous pouvez soumettre votre dossier du TP sous forme de fichier ZIP. 
+
+La soumission se fait par e-mail à l'adresse [gse.cartosig+adg17@gmail.com](mailto:gse.cartosig+adg17@gmail.com). **Merci d'utiliser uniquement votre adresse UNIL pour l'envoi de la soumission!**
