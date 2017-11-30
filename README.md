@@ -86,13 +86,11 @@ Semaine  | Date  | Thématique du cours | Documents de cours | Salle
 7        | 2.11.  | _Travail personnel en salle informatique_
 8        | 9.11.  | Pas de cours (inter-semestre)
 9        | 16.11. | ACP / Analyse factorielle | [30-acp](30-acp)
-10       | 23.11. | Classificiation hiérarchique | | C:POL-189.1<br>A:POL-146
-11       | 30.11. | k-means | | C:POL-189.1<br>A:POL-146
-12       | 7.12.  | GWR / Point Pattern Analysis | | C:POL-189.1<br>A:POL-146
-13       | 14.12. | Réserve
-14       | 21.12. | __Délai de rendu travail pratique__
-
-Ce plan de cours ci-dessus peut subir des modifications pendant le semestre, en fonction de l'avancement.
+10       | 23.11. | Clustering | [40-clustering](40-clustering) | C:POL-189.1<br>A:POL-146
+11       | 30.11. | GWR | [50-gwr](50-gwr) | C:POL-189.1<br>A:POL-146
+12       | 7.12.  | _Travail personnel en salle informatique_ | | 
+13       | 14.12. | _Travail personnel en salle informatique_
+14       | 21.12. | __Délai de rendu [travail pratique](travail-ratique)__
 
 
 ## 8. Encadrement et réponse aux questions
