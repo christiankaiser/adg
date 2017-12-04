@@ -51,3 +51,5 @@ Voici les points importants:
 Si vous avez tous les 4 exercices, et vous remplissez les critères ci-dessus, vous pouvez soumettre votre dossier du TP sous forme de fichier ZIP. 
 
 La soumission se fait par e-mail à l'adresse [gse.cartosig+adg17@gmail.com](mailto:gse.cartosig+adg17@gmail.com). **Merci d'utiliser uniquement votre adresse UNIL pour l'envoi de la soumission!**
+
+**Le délai de rendu est fixé au 21.12.2017.** À partir du 22.01.2018, une pénalité de retard d'une demie note par jour est appliquée.
