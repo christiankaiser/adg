@@ -8,6 +8,6 @@ Nous allons également voir la régression logistique multinomiale, et approfond
 
 1. [Introduction aux Generalized Linear Models (GLM)](1-intro-glm.ipynb)
 2. [Méthodes de validation des modèles de régression](2-validation-regr.ipynb)
-3. [Régression logistique multinomiale](3-logit-multinomiale)
+3. [Régression logistique multinomiale](3-logit-multinomiale.ipynb)
 
 Suite à ces explications, nous sommes prêts pour l'[exercice sur les régressions](4-exercice-regression.md) qui fait partie du travail pratique.
