@@ -1,6 +1,6 @@
 # Analyse quantitative et spatiale de données géographiques
 
-_Cours du Bachelor en Géographie 3ème année, semestre d'automne 2017._
+_Cours du Bachelor en Géographie 3ème année, semestre d'automne 2018._
 
 ---
 
@@ -8,23 +8,30 @@ __Enseignant:__ Christian Kaiser, Géopolis 3610, [christian.kaiser@unil.ch](mai
 
 __Assistants:__
 
+Semaine 1 à 7:
+
 - Raphaël Bubloz, [raphael.bubloz@unil.ch](raphael.bubloz@unil.ch)
+- Ludivine Stofer, [ludivine.stofer@unil.ch](ludivine.stofer@unil.ch)
+
+Semaines 8 à 14:
+
+- Julien Corminboeuf, [julien.corminboeuf@unil.ch](julien.corminboeuf@unil.ch)
 - Kerria Grize, [kerria.grize@unil.ch](kerria.grize@unil.ch)
-- Lucas Martinez, [lucas.martinez@unil.ch](lucas.martinez@unil.ch)
+- Romain Loup, [romain.loup@unil.ch](romain.loup@unil.ch)
 
 __Horaire du cours:__ jeudi 13h15 - 15h00
 
-__Salle:__  voir plan de cours
+__Salle:__  POL-146
 
 __Documents de cours:__ [https://github.com/christiankaiser/adg](https://github.com/christiankaiser/adg)
 
-__Q&A / Discussions / Annonces__: [gse-adg.slack.com](https://gse-adg.slack.com). Utilisez [ce lien](https://join.slack.com/t/gse-adg/signup) pour joindre le forum (il faut utiliser votre adresse UNIL pour pouvoir joindre).
+__Q&A / Discussions / Annonces__: [adg-18.slack.com](https://adg-18.slack.com). Utilisez [ce lien](https://join.slack.com/t/adg-18/signup) pour joindre le forum (il faut utiliser votre adresse UNIL pour pouvoir joindre).
 
 ---
 
 ## 1. Objectif
 
-Aborder la méthodologie et la pratique de l’analyse statistique multivariée dans l’étude des systèmes territoriaux, dans une approche d’analyse spatiale. Permettre de mettre en oeuvre une démarche d’analyse statistique multivariée, d'effectuer des tests d'hypothèses, une régression multiple et logistique, et de lire et interpréter une analyse factorielle et une classification. Au niveau technique, il s'agit d’utiliser le logiciel statistique open-source [R](https://www.r-project.org/) pour les calculs statistiques, et les Jupyter Notebooks pour documenter l'analyse statistique. Être exposé aux développements de l’analyse spatiale en géographie par le biais d’exemples.
+Aborder la méthodologie et la pratique de l’analyse statistique multivariée dans l’étude des systèmes territoriaux, dans une approche d’analyse spatiale. Permettre de mettre en oeuvre une démarche d’analyse statistique multivariée, d'effectuer des tests d'hypothèses, une régression multiple et logistique, et de lire et interpréter une analyse factorielle et une classification. Au niveau technique, il s'agit d’utiliser le logiciel statistique open-source [R](https://www.r-project.org/) pour les calculs statistiques, et les Jupyter Notebooks ou R Studio pour documenter l'analyse statistique. Être exposé aux développements de l’analyse spatiale en géographie par le biais d’exemples.
 
 ## 2. Contenu
 
@@ -43,7 +50,7 @@ __Méthodes d’analyse des données__
 - Classifications: ascendante hiérarchique (CAH), en nuées dynamiques (k-means)
 - Autocorrélation spatiale, Geographically Weighted Regression (GWR)
 
-__Gestion et traitement de l’information dans R et avec les Jupyter Notebooks__
+__Gestion et traitement de l’information dans R et avec les Jupyter Notebooks et RStudio__
 
 - Structure de l’information; principes des bases de données de type recensement (Census Geography)
 - Manipuler des fichiers dans R et repérer les liens avec des logiciels de cartographie
@@ -77,25 +84,25 @@ La première heure (au maximum) de chaque cours sera consacrée aux concepts th�
 
 Semaine  | Date  | Thématique du cours | Documents de cours | Salle
 :-------:|:-----:| --------------------|--------------------| -----
-1        | 21.9. | Présentation du cours: programme, ressources, exigences.<br>Les données et les statistiques descriptives. | [10-environnement-travail](10-environnement-travail), [11-installation-r-etc](11-installation-r-etc), [15-stat-descriptive](15-stat-descriptive), [16-echantillionage](16-echantillionage)
-2        | 28.9.  | Éléments de statistique inférentielle | [17-tests-statistiques](17-tests-statistiques)
-3        | 5.10.  | _Travail personnel en salle informatique_
-4        | 12.10. | ANOVA / Corrélations | [18-anova](18-anova), [20-correlations](20-correlations)
-5        | 19.10. | Régression multiple et logistique | [25-regression](25-regression)
-6        | 26.10. | GLM | [26-glm](26-glm)
-7        | 2.11.  | _Travail personnel en salle informatique_
-8        | 9.11.  | Pas de cours (inter-semestre)
-9        | 16.11. | ACP / Analyse factorielle | [30-acp](30-acp)
-10       | 23.11. | Clustering | [40-clustering](40-clustering) | C:POL-189.1<br>A:POL-146
-11       | 30.11. | GWR | [50-gwr](50-gwr) | C:POL-189.1<br>A:POL-146
-12       | 7.12.  | _Travail personnel en salle informatique_ | | 
-13       | 14.12. | _Travail personnel en salle informatique_
-14       | 21.12. | __Délai de rendu [travail pratique](travail-ratique)__
+1        | 20.9. | Présentation du cours: programme, ressources, exigences.<br>Les données et les statistiques descriptives. | [10-environnement-travail](10-environnement-travail), [11-installation-r-etc](11-installation-r-etc), [15-stat-descriptive](15-stat-descriptive), [16-echantillionage](16-echantillionage)
+2        | 27.9.  | Éléments de statistique inférentielle | [17-tests-statistiques](17-tests-statistiques)
+3        | 4.10.  | _Travail personnel en salle informatique_
+4        | 11.10. | ANOVA / Corrélations | [18-anova](18-anova), [20-correlations](20-correlations)
+5        | 18.10. | Régression multiple et logistique | [25-regression](25-regression)
+6        | 25.10. | GLM | [26-glm](26-glm)
+7        | 1.11.  | ACP / Analyse factorielle | [30-acp](30-acp)
+8        | 8.11.  | Pas de cours (inter-semestre)
+9        | 15.11. | Clustering | [40-clustering](40-clustering) | 
+10       | 22.11. | Documenter et commenter une analyse statistique
+11       | 29.11. | GWR | [50-gwr](50-gwr) | 
+12       | 6.12.  | _Travail personnel en salle informatique_ | | 
+13       | 13.12. | _Travail personnel en salle informatique_
+14       | 20.12. | __Délai de rendu travail pratique__
 
 
 ## 8. Encadrement et réponse aux questions
 
-Pour toute question, demande de précision ou de compléments d’information, vous pouvez utiliser le [forum de discussion sur Slack](https://gse-adg.slack.com). Ceci nous permet de répondre au plus vite possible, et les réponses sont disponibles pour tous en tout temps.
+Pour toute question, demande de précision ou de compléments d’information, vous pouvez utiliser le [forum de discussion sur Slack](https://adg-18.slack.com). Ceci nous permet de répondre au plus vite possible, et les réponses sont disponibles pour tous en tout temps.
 
 Pour une question spécifique sur les traitements R que vous avez effectués, vos données ou votre projet personnel, formulez votre question de manière à ce que quelqu'un d'autre est en mesure de la reproduire, entre autre en joignant tous les documents nécessaires (vos données, copie d’écran, etc.).
 

@@ -72,7 +72,7 @@ Vous pourrez poser vos questions (**ainsi que les éléments nécessaires à la 
 _R_ est un logiciel et langage de programmation principalement utilisé pour les statistiques et l'analyse et visualisation de données.
 Il fonctionne  par lignes de commande qui sont ensuite interprétées. Les fonctionnalités de base sont écrites en R et il est donc plus facile de savoir ce qu'il se passe "derrière" lorsqu'on y fait appel. _R_ possède une importante communauté, active notamment dans le développement de _packages_ (ou librairies). Ces derniers permettent d'ajouter des fonctions spécifiques (ex. visualisation de graphiques, de cartes, effectuer des requêtes sur Twitter, etc.) au gré de ses besoins.
 
-Il est possible d'utiliser [_R_](https://cran.r-project.org/) directement depuis le logiciel ou dans le terminal, mais l'interface graphique est assez brute. Il peut être préférable d'utiliser [_Rstudio_](https://www.rstudio.com/products/rstudio/) qui offre quelques fonctionnalités sans passer par la ligne de commande, ainsi qu'une utilisation simplifiée pour l'utilisateur. _R_ est aussi exploitable dans les _Jupyter Notebooks_, où la syntaxe est la même.
+Il est possible d'utiliser [_R_](https://cran.r-project.org/) directement depuis le logiciel ou dans le terminal, mais l'interface graphique est assez brute. Il peut être préférable d'utiliser [_RStudio_](https://www.rstudio.com/products/rstudio/) qui offre quelques fonctionnalités sans passer par la ligne de commande, ainsi qu'une utilisation simplifiée pour l'utilisateur. RStudio permet aussi de créer des notebooks. _R_ est aussi exploitable dans les _Jupyter Notebooks_, où la syntaxe est la même.
 
 Si _R_ n'est pas forcément attirant pour les débutants (ligne de commande, syntaxe, etc.), une fois la prise en main réalisée, il est un outil puissant, aux multiples fonctionnalités, le tout gratuitement.
 
@@ -88,6 +88,12 @@ Les _Notebooks_ peuvent être vus de différentes façons : via [_nbviewer_](htt
 + [Nteract](https://nteract.io/) pour une application native
 + [Azure](https://notebooks.azure.com/) pour une édition en ligne
 + Installer [_Anaconda_](http://jupyter.org/install.html) (qui installe _Python_ et _Jupyter Notebook_), le lancer depuis _Anaconda_ et l'éditer dans le navigateur.
+
+## Notebooks R
+
+Un peu moins connu que les Jupyter Notebooks, RStudio offre également la possibilité de créer des notebooks. Les fonctionnalités sont très similaires, le principe de fonctionnement aussi. L'installation est par contre plus simple car complètement intégré dans RStudio. Cependant Jupyter est un peu plus généraliste et permet d'intégrer d'autres langages et réjouis une très bonne adaptation dans le domaine de l'analyse de données.
+
+Quel environnement choisir? Dans le cadre de ce cours, c'est un peu égal. Les deux options sont acceptées, et les fonctionnalités les mêmes à notre niveau. Si vous êtes partants pour investir un peu de temps dans l'installation de Juypter, et que vous envie d'apprendre la solution la plus répondu, les notebooks Jupyter sont probablement à conseiller. Pour les minimalistes, anti-statisticiens et les je-fais-planter-tous-les-ordi-artistes, ce sera probablement plus simple d'opter pour les notebooks dans RStudio.
 
 ## Pourquoi l'open-source? Quelles alternatives?
 

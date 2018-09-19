@@ -2,19 +2,14 @@
 
 Le but du travail pratique consiste à créer un dossier qui contient une description d'une série de méthodes statistiques, accompagnée des calculs et les interprétations.
 
-Pratiquement, le dossier sera un ensemble de Jupyter notebooks. Ces notebooks devront être rendus ensemble avec une version HTML (exportée depuis le notebook). Chaque notebook correspond à un des exercices présentés pendant le semestre dans le cours (voir plus bas pour les détails).
+Pratiquement, le dossier sera un ensemble de Jupyter notebooks ou de notebooks RStudio. Ces notebooks devront être rendus ensemble avec une version HTML (exportée depuis le notebook). Chaque notebook correspond à un des exercices présentés pendant le semestre dans le cours (voir plus bas pour les détails).
 
 Voici la liste des exercices qui doivent être inclus dans le dossier (cette liste est complétée au fur et à mesure):
 
 1. [Exercice sur les tests statistiques](../17-tests-statistiques/exercice-tests-statistiques.md)
 2. [Exercice sur les régressions](../26-glm/4-exercice-regression.md)
-3. [ACP](../30-acp)
-4. [Clustering](../40-clustering)
-
-Il est possible de:
-
-1. Combiner l'ACP et le clustering en un seul exercice
-2. Faire de manière approfondie soit l'ACP soit le clustering, et de laisser tomber l'autre exercice
+3. [ACP](../30-acp) + [Clustering](../40-clustering)
+4. Commentaire analyse statistique
 
 
 ## La région d'étude
@@ -45,11 +40,11 @@ Voici les points importants:
 - Pour chaque exercice:
 	- le dossier de l'exercice doit contenir l'ensemble des fichiers nécessaires pour faire tourner votre Jupyter Notebook
 	- le dossier de l'exercice doit également contenir l'ensemble des images que vous avez inséré dans le Notebook
-	- évidemment le Jupyter Notebook de l'exercice!
-	- et un export HTML du Jupyter Notebook (dans Jupyter, menu File > Download As... > HTML
+	- évidemment le Notebook (Jupyter ou RStudio) de l'exercice!
+	- et un export HTML du Notebook (dans Jupyter, menu File > Download As... > HTML
 
 Si vous avez tous les 4 exercices, et vous remplissez les critères ci-dessus, vous pouvez soumettre votre dossier du TP sous forme de fichier ZIP. 
 
-La soumission se fait par e-mail à l'adresse [gse.cartosig+adg17@gmail.com](mailto:gse.cartosig+adg17@gmail.com). **Merci d'utiliser uniquement votre adresse UNIL pour l'envoi de la soumission!**
+La soumission se fait par e-mail à l'adresse [gse.cartosig+adg18@gmail.com](mailto:gse.cartosig+adg18@gmail.com). **Merci d'utiliser uniquement votre adresse UNIL pour l'envoi de la soumission!**
 
-**Le délai de rendu est fixé au 21.12.2017.** À partir du 22.01.2018, une pénalité de retard d'une demie note par jour est appliquée.
+**Le délai de rendu est fixé au 20.12.2017.** À partir du 21.01.2018, une pénalité de retard d'une demie note par jour est appliquée.
