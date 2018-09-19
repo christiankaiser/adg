@@ -14,6 +14,8 @@ En principe, pour suivre le cours, vous n'avez pas besoin d'installer quoi que c
 
 Si vous préférez tout de même d'installer les logiciels sur votre ordinateurs, vous pouvez simplement suivre les instructions ci-dessous, selon votre système d'exploitation.
 
+Si vous appartenez à la catégorie de personnes qui refusent d'installer Jupyter Notebooks pour des raisons de santé (votre propre santé ou celle des autres), vous pouvez aussi utiliser les notebooks dans RStudio et ne pas installer Jupyter et compagnie. Les points 1 et 2 ci-dessous restent identiques.
+
 ## MacOS
 
 _Installer **dans l'ordre :**_
