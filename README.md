@@ -92,10 +92,10 @@ Semaine  | Date  | Thématique du cours | Documents de cours | Salle
 6        | 25.10. | GLM | [26-glm](26-glm)
 7        | 1.11.  | ACP / Analyse factorielle | [30-acp](30-acp)
 8        | 8.11.  | Pas de cours (inter-semestre)
-9        | 15.11. | Clustering | [40-clustering](40-clustering) | 
-10       | 22.11. | Documenter et commenter une analyse statistique
-11       | 29.11. | GWR | [50-gwr](50-gwr) | 
-12       | 6.12.  | _Travail personnel en salle informatique_ | | 
+9        | 15.11. | [_Journée romande de la géoinformation_](https://georomandie2018.ch/)
+10       | 22.11. | Clustering | [40-clustering](40-clustering) | 
+11       | 29.11. | Documenter et commenter une analyse statistique
+12       | 6.12.  | GWR | [50-gwr](50-gwr) | 
 13       | 13.12. | _Travail personnel en salle informatique_
 14       | 20.12. | __Délai de rendu travail pratique__
 
