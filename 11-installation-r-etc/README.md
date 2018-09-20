@@ -35,7 +35,7 @@ Sur https://www.rstudio.com/products/rstudio/download/#download selectionnez la 
 
 **3. Jupyter Notebooks**
 
-A installer via Anaconda (https://www.continuum.io/downloads). Téléchargez la version Python 3.6 (pas obligatoire, 2.7 va bien aussi).
+A installer via Anaconda (https://www.anaconda.com/download/). Téléchargez la version Python 3.6 (pas obligatoire, 2.7 va bien aussi).
 
 
 **4. R kernel pour Jupyter**
