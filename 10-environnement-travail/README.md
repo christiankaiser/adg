@@ -78,7 +78,7 @@ Si _R_ n'est pas forcément attirant pour les débutants (ligne de commande, syn
 
 ## Jupyter Notebooks: un environnement pour l'analyse quantitative
 
-Ces _Notebooks_ sont une application web (qui fonctionne dans le navigateur) qui permet de créer et éditer des documents contenant du texte descriptif/explicatif, du code (exécutable) ou encore des graphiques et équations. Plusieurs langages de programmation sont supportés (notamment _R_ et _Python_), le texte peut être balisé en _Mardown_ et les _Notebooks_ sont facilement partageables.
+Ces _Notebooks_ sont une application web (qui fonctionne dans le navigateur) qui permet de créer et éditer des documents contenant du texte descriptif/explicatif, du code (exécutable) ou encore des graphiques et équations. Plusieurs langages de programmation sont supportés (notamment _R_ et _Python_), le texte peut être balisé en _Markdown_ et les _Notebooks_ sont facilement partageables.
 
 Les _Notebooks_ gagnent de l'ampleur ces dernières années, avec une augmentation de la pression sur la recherche scientifique avec la nécessité d'une part d'améliorer la reproductibilité des analyses et de l'autre de prévoir le stockage et l'accès aux données utilisées. Le succès de cette solution est simple. Dans un _Notebook_, il est possible de suivre les étapes de traitement et analyse des données et de les reproduire en exécutant le code écrit par les auteurs. De plus, ces derniers peuvent (doivent) commenter les différentes étapes pour partager leur raisonnement. Il est ainsi possible à chacun de comprendre, appliquer et, éventuellement, critiquer le processus suivi.
 
